@@ -1,0 +1,5 @@
+a= (91,4,2,3,4,"anshika")
+print(a)
+no = a.count(4)
+print(no)
+print(len(a))
