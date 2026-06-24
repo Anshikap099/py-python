@@ -1,4 +1,4 @@
-print("import os
+print("import os")
 from pathlib import Path
 
 # Directory to list
@@ -16,4 +16,4 @@ with os.scandir(directory) as entries:
 print("\n=== Using pathlib.Path.iterdir() ===")
 path = Path(directory)
 for item in path.iterdir():
-    print(item.name)")
+  print("item.name")
