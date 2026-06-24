@@ -1,1 +1,1 @@
-#a variable only staryt with alphabet and underscore,cant start with  digit,,no space allowed between variable name6 
+#a variable only staryt with alphabet and underscore,cant start with  digit,,no space allowed between variable namee
